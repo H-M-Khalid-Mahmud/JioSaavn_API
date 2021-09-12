@@ -6,7 +6,13 @@
 ###### **NOTE:** You don't need to have JioSaavn link of the song in order to fetch the song details, you can directly search songs by their name. Fetching Songs/Albums/Playlists from URL is also supported in this API.  
 
  ---
+### Deploy on Heroku
 
+Press the below button to Fast deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H-M-Khalid-Mahmud/JioSaavn_API)
+
+ ---
 ### **Features**:
 ##### Currently the API can get the following details for a specific song in JSON format:
 - **Song Name**
